@@ -1,6 +1,6 @@
 # Account Tag
 
-可以为浏览器多账户进行备注的 chrome 插件
+可为浏览器多账户进行备注的 chrome 插件
 
 本人非程序员，99%的代码由 GPT 、New Bing、 Cursor 完成。目前版本仅具备基础功能，暂无更新计划，有能力的大佬可自行优化。
 
@@ -18,6 +18,8 @@ web3 的撸毛玩家，会有同时打开多个 chrome 环境的需求，当同�
 
 ## 使用方法
 ### 1.下载插件
+`git clone https://github.com/iCodyYang/Account-Tag.git`
+或者
 - 在[当前页面](https://github.com/iCodyYang/Account-Tag)点击右上角**绿色的 Code 按钮**，选择**Download ZIP**
 - 解压压缩包
 ### 2.安装插件
