@@ -18,10 +18,13 @@ web3 的撸毛玩家，会有同时打开多个 chrome 环境的需求，当同�
 
 ## 使用方法
 ### 1.下载插件
-`git clone https://github.com/iCodyYang/Account-Tag.git`
-或者
-- 在[当前页面](https://github.com/iCodyYang/Account-Tag)点击右上角**绿色的 Code 按钮**，选择**Download ZIP**
-- 解压压缩包
+访问 [Releases](https://github.com/iCodyYang/Account-Tag/releases/latest) 下载最新版软件包。
+
+也可以直接克隆仓库到本地：
+```shell
+git clone https://github.com/iCodyYang/Account-Tag.git
+```
+
 ### 2.安装插件
 - 打开 Chrome 浏览器
 - 打开网址：chrome://extensions/
