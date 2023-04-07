@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Account Tag",
+    "version": "1.0",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "activeTab",
+        "storage",
+        "alarms"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
