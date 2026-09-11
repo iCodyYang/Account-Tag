@@ -8,7 +8,7 @@
 
 ## 使用场景
 
-web3 的撸毛玩家，会有同时打开多个 chrome 环境的需求，当同时打开的浏览器窗口过多时，很容易忘记当前操作的是第几个账户。此插件可以通过自定义备注的方式，给每个浏览器窗口增加备注。
+当同时打开的浏览器窗口过多时，很容易忘记当前操作的是第几个账户。此插件可以通过自定义备注的方式，给每个浏览器窗口增加备注。
 
 ## 功能
 - 在插件上显示自定义数字（2位数以内）
@@ -33,5 +33,3 @@ git clone https://github.com/iCodyYang/Account-Tag.git
 - 将 Account Tag 固定在浏览器上
 - 点击输入数字即可
 
-## 其他
-有任何事情可以在 [@codyyang_eth](https://twitter.com/codyyang_eth) 或 [NFTFlip](https://review.nftflip.ai/) 的 [Discord](https://discord.gg/nftflip) 开票联系我。
