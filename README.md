@@ -4,7 +4,8 @@
 
 本人非程序员，99%的代码由 GPT 、New Bing、 Cursor 完成。目前版本仅具备基础功能，暂无更新计划，有能力的大佬可自行优化。
 
-![](https://github.com/iCodyYang/IMG/blob/5034c330b8a3a28ffc90f2bb04c232555794f652/Account-Tag1.png)
+![](https://github.com/iCodyYang/Account-Tag/blob/main/Account-Tag1.png)
+
 
 ## 使用场景
 
